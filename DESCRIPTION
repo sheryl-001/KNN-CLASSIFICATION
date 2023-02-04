@@ -1,0 +1,5 @@
+Following data cleaning, two Scikit-Learn KNN models should be created
+for two different distance metrics: Square Euclidean and Manhattan
+distance. The performance of the two models using different distance
+metrics should be compared in terms of accuracy to the test data and
+Scikit-Learn Classification Report.
